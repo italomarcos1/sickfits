@@ -19,7 +19,7 @@ export default function Nav() {
       <Link href="orders">
         <a>orders</a>
       </Link>
-      <Link href="me">
+      <Link href="about">
         <a>me</a>
       </Link>
     </NavStyles>
